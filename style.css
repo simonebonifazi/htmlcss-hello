@@ -1,7 +1,7 @@
 * {
  margin: 0;
  box-sizing: border-box;
- 
+ text-align: center;
 }
 
 body {
@@ -10,9 +10,6 @@ body {
     background-size: cover;
 }
 
-div {
-    text-align: center;
-}
 
 h1 {
     font-size: 35px;
