@@ -1,0 +1,16 @@
+* {
+ margin: 0;
+ box-sizing: border-box;
+ text-align: center;
+}
+
+body {
+    background-image: url('https://www.studicore.hu/wp-content/uploads/2019/03/html_css.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 35px;
+    color: khaki;
+}
